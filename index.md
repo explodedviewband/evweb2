@@ -10,6 +10,7 @@ layout: home
 
 # Exploded View
 ## Sacred Bones
+{: .subtitle}
 ![Exploded View -Summer Came Early cover]({{ "assets/summer-cover.jpg"}})
 
 <a class="btn btn-primary btn-lg buy" href="https://explodedview.bandcamp.com/">Buy Music</a>

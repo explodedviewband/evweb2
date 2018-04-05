@@ -41,6 +41,14 @@ a.btn {
   text-transform: uppercase;
   font-family: $headings-font-family;
   font-weight: 500;
+  letter-spacing: .08em;
+}
+
+.home .subtitle {
+  font-size: 1.1em;
+  font-weight: normal;
+  color: $color-grey-400;
+
 }
 
 .category-heading {
