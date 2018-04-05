@@ -1,0 +1,33 @@
+name: Exploded View
+markdown: kramdown
+
+permalink: pretty
+highlighter: null # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+twitter_username: explodedviewband
+instagram_username: explodedviewband
+facebook_username: explodedviewband
+github_username:  explodedviewband
+
+plugins:
+  - jekyll-seo-tag
+
+# Jekyll SEO
+title: Exploded View
+description: Exploded View is a collaborative project by Anika (Invada Records / Stones Throw), Martin Thulin, Hugo Quezada and Amon Melgarejo.
+url: https://explodedview.info
+canonical_url: "https://explodedview.info"
+
+twitter:
+  username: explodedviewband
+
+facebook:
+  publisher: explodedviewband
+
+social:
+  name: explodedview
+  links:
+    - https://twitter.com/explodedviewband
+    - https://www.facebook.com/explodedviewband
+    - https://instagram.com/explodedviewband

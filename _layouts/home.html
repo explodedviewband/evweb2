@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<div id="home" class="home overview">
+  {{ content }}
+  <!-- <h1>home</h1> -->
+
+  <!-- AUDIO -->
+  <h2 class="category-heading">Audio</h2>
+    <ul class="posts audio">
+      {% for post in site.categories['audio'] %}
+      <div class="post-content">
+        {{ post.content}}
+      </div>
+      {% endfor %}
+    </ul>
+
+  <!-- NEWS -->
+  <h2 class="category-heading">News</h2>
+  <div class="posts news">
+    {% for post in site.categories['news'] %}
+      <span>{{ post.date | date_to_string }}</span>
+      <h3 class="post-heading">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h3>
+      <div class="post-content">
+        {{ post.excerpt}}
+      </div>
+    {% endfor %}
+
+  </div>
+  <!-- video -->
+  <h2 class="category-heading">Video</h2>
+  <div class="posts video">
+    {% for post in site.categories['video'] %}
+      <div class="post-content">
+        {{ post.content}}
+      </div>
+    {% endfor %}
+  </div>
+  <!-- digitaldownloads -->
+  <section class="">
+    <h2 class="category-heading">Digital Downloads / Bandcamp</h2>
+    <ul class="posts digitaldownloads row">
+      {% for post in site.categories['digitaldownloads'] limit:4 %}
+      <div class="post-content col-6">
+        {{ post.content}}
+      </div>
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="">
+    <h2 class="category-heading">Newsletter</h2>
+    {% include newsletterform.html %}
+  </section>
+
+  <!-- digitaldownloads2 -->
+  <!-- <h2 class="category-heading">Digital Downloads / Bandcamp</h2>
+  <ul class="posts digitaldownloads">
+    {% for post in site.categories['digitaldownloads'] limit:2 %}
+      <div class="post-content">
+        {{ post.content}}
+      </div>
+    {% endfor %}
+  </ul> -->
+
+  <section class="">
+    <h2 class="category-heading">Recent Posts</h2>
+    <ul class="posts">
+      {% for post in site.posts limit:8 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+
+</div>
