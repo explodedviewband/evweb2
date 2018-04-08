@@ -51,4 +51,4 @@ US Live Booking: michael [at] heavy-trip [dot] com
 ---
 
 ## Newsletter
-{% include newsletterform.html %}
+{% include newsletterform-ajax.html %}

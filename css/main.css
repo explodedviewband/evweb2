@@ -501,7 +501,7 @@ h6, .h6 {
       color: #1b1b1b;
       text-decoration: none; }
       .header .site-title a:hover {
-        color: #ff0202; }
+        color: #b90000; }
   .header .topnavigation {
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -510,7 +510,7 @@ h6, .h6 {
       text-decoration: none;
       color: #1b1b1b; }
       .header .topnavigation a:hover {
-        color: #ff0202; }
+        color: #b90000; }
       .header .topnavigation a.active {
         color: #dd0000; }
   .header ul.navigation {
@@ -559,6 +559,7 @@ nav label {
 
 nav label {
   position: absolute;
+  z-index: 100;
   top: 8px;
   right: 8px;
   transition: 0.4s; }
@@ -583,7 +584,8 @@ nav label:before {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
     transition: all 0.5s;
     position: absolute;
-    width: 100%; }
+    width: 100%;
+    z-index: 100; }
   nav li {
     -ms-flex: none;
         flex: none;
@@ -619,7 +621,7 @@ nav label:before {
     .footer a.social-link .svg-icon {
       fill: inherit; }
     .footer a.social-link:hover .svg-icon {
-      fill: #ff0202; }
+      fill: #b90000; }
   .footer .svg-icon {
     width: 30px; }
   .footer .rss {
@@ -631,17 +633,12 @@ nav label:before {
 
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
 #mc_embed_signup form {
-  display: block; }
-
-#mc_embed_signup h2 {
-  font-weight: bold;
-  padding: 0;
-  margin: 15px 0;
-  font-size: 1.4em; }
+  display: block;
+  z-index: 1; }
 
 #mc_embed_signup input {
   border: 1px solid #ABB0B2;
-  border-radius: 3px; }
+  border-radius: 1px; }
 
 #mc_embed_signup input[type=checkbox] {
   -webkit-appearance: checkbox; }
@@ -654,9 +651,9 @@ nav label:before {
 
 #mc_embed_signup .button {
   clear: both;
-  background-color: #aaa;
+  background-color: #e33;
   border: 0 none;
-  border-radius: 4px;
+  border-radius: 1px;
   transition: all 0.23s ease-in-out 0s;
   color: #FFFFFF;
   cursor: pointer;
@@ -674,7 +671,7 @@ nav label:before {
   width: auto; }
 
 #mc_embed_signup .button:hover {
-  background-color: #777; }
+  background-color: #b90000; }
 
 #mc_embed_signup .small-meta {
   font-size: 11px; }
@@ -684,7 +681,6 @@ nav label:before {
 
 #mc_embed_signup .mc-field-group {
   clear: left;
-  position: relative;
   padding-bottom: 3%;
   min-height: 50px; }
 
@@ -714,31 +710,6 @@ nav label:before {
   width: 99%;
   padding: 5px 0;
   margin-bottom: 2px; }
-
-#mc_embed_signup .datefield,
-#mc_embed_signup .phonefield-us {
-  padding: 5px 0; }
-
-#mc_embed_signup .datefield input,
-#mc_embed_signup .phonefield-us input {
-  display: inline;
-  width: 60px;
-  margin: 0 2px;
-  letter-spacing: 1px;
-  text-align: center;
-  padding: 5px 0 2px; }
-
-#mc_embed_signup .phonefield-us .phonearea input,
-#mc_embed_signup .phonefield-us .phonedetail1 input {
-  width: 40px; }
-
-#mc_embed_signup .datefield .dayfield input,
-#mc_embed_signup .datefield .monthfield input {
-  width: 30px; }
-
-#mc_embed_signup .datefield label,
-#mc_embed_signup .phonefield-us label {
-  display: none; }
 
 #mc_embed_signup .indicates-required {
   text-align: right;

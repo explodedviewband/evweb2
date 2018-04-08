@@ -45,6 +45,7 @@ nav label {
 
 nav label {
     position: absolute;
+    z-index: 100;
     top: 8px;
     right: 8px;
     transition: 0.4s;
@@ -75,6 +76,7 @@ nav label:before {
         transition: all 0.5s;
         position: absolute;
         width: 100%;
+        z-index: 100;
     }
 
     nav li {
