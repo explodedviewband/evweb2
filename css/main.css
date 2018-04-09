@@ -760,7 +760,7 @@ nav label:before {
   float: left;
   top: -1.5em;
   z-index: 1;
-  width: 80%; }
+  width: 100%; }
 
 #mc_embed_signup #mce-error-response {
   display: none; }
