@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div id="home" class="home overview">
   {{ content }}
   <!-- <h1>home</h1> -->
@@ -53,7 +52,7 @@ layout: default
 
   <section class="">
     <h2 class="category-heading">Newsletter</h2>
-    {% include newsletterform.html %}
+    {% include newsletterform-ajax.html %}
   </section>
 
   <!-- digitaldownloads2 -->
@@ -74,5 +73,6 @@ layout: default
       {% endfor %}
     </ul>
   </section>
-
 </div>
+
+{% include summerep-jsonld.html %}
