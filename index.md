@@ -6,6 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+seo:
+  type: MusicGroup
+  image: "{{site.baseurl}}/assets/exploded-view-band-picture.jpg"
+  alternateName: "Exploded View feat. Anika"
 ---
 
 # Exploded View
