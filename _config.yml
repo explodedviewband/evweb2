@@ -13,6 +13,7 @@ soundcloud_username: explodedviewofficial
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Jekyll SEO
 title: Exploded View
