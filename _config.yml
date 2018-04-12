@@ -9,6 +9,7 @@ twitter_username: explodedviewband
 instagram_username: explodedviewband
 facebook_username: explodedviewband
 github_username:  explodedviewband
+soundcloud_username: explodedviewofficial
 
 plugins:
   - jekyll-seo-tag
@@ -26,8 +27,9 @@ facebook:
   publisher: explodedviewband
 
 social:
-  name: explodedview
+  name: Exploded View
   links:
     - https://twitter.com/explodedviewband
     - https://www.facebook.com/explodedviewband
     - https://instagram.com/explodedviewband
+    - https://soundcloud.com/explodedviewofficial
