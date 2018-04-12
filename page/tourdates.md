@@ -52,3 +52,102 @@ US Live Booking: michael [at] heavy-trip [dot] com
 
 ## Newsletter
 {% include newsletterform-ajax.html %}
+
+<script type='application/ld+json'>
+{
+  "@context": "http://www.schema.org",
+  "@type": "MusicEvent",
+  "name": "Exploded View feat. Anika +  Support Warm Graves",
+  "url": "https://www.schauspiel.koeln/spielplan/monatsuebersicht/exploded-view/2700/",
+  "description": "Exploded View feat. Anika +  Support Warm Graves",
+  "startDate": "05/22/2018",
+  "endDate": "05/22/2018",
+  "location": {
+    "@type": "Place",
+    "name": "Britney @Schauspiel Köln (Außenspielstätte Offenbachplatz)",
+    "sameAs": "https://www.schauspiel.koeln/haus/britney/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Offenbachplatz",
+      "addressLocality": "Köln",
+      "postalCode": "50667",
+      "addressCountry": "Germany"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.schauspiel.koeln/spielplan/monatsuebersicht/exploded-view/2700/karten-kaufen/2700/"
+  },
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Exploded View"
+  }
+}
+ </script>
+
+<!-- Kampnagel Hamburg -->
+ <script type='application/ld+json'>
+ {
+   "@context": "http://www.schema.org",
+   "@type": "MusicEvent",
+   "name": "Exploded View (Full Band)",
+   "url": "http://www.kampnagel.de/de/programm/exploded-view/",
+   "description": "Exploded View: Konzert / Support: Warm Graves",
+   "startDate": "05/23/2018",
+   "endDate": "05/23/2018",
+   "location": {
+     "@type": "Place",
+     "name": "Kampnagel - KMH",
+     "sameAs": "http://www.kampnagel.de/",
+     "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "Jarrestr. 20",
+       "addressLocality": "Hamburg",
+       "postalCode": "22303",
+       "addressCountry": "Germany"
+     }
+   },
+   "offers": {
+     "@type": "Offer",
+     "url": "https://shop.jetticket.net/kampnagel/events.aspx?eventid=4195"
+   },
+   "performer": {
+     "@type": "PerformingGroup",
+     "name": "Exploded View"
+   }
+ }
+  </script>
+
+<!-- Roter Salon Berlin -->
+
+  <script type='application/ld+json'>
+  {
+    "@context": "http://www.schema.org",
+    "@type": "MusicEvent",
+    "name": "Exploded View (Full Band)",
+    "url": "https://www.volksbuehne.berlin/de/programm/3904/exploded-view-support-warm-graves",
+    "description": "Exploded View: Konzert / Support: Warm Graves",
+    "startDate": "05/24/2018",
+    "endDate": "05/24/2018",
+    "location": {
+      "@type": "Place",
+      "name": "Volksbühne Berlin - Roter Salon",
+      "sameAs": "http://www.volksbuehne.de/",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rosa-Luxemburg-Platz",
+        "addressLocality": "Berlin",
+        "postalCode": "10178",
+        "addressCountry": "Germany"
+      }
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "http://ticket.volksbuehne-berlin.de/eventim.webshop/webticket/eventlist"
+    },
+    "performer": {
+      "@type": "PerformingGroup",
+      "name": "Exploded View"
+    }
+  }
+</script>
