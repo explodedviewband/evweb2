@@ -53,6 +53,7 @@ US Live Booking: michael [at] heavy-trip [dot] com
 ## Newsletter
 {% include newsletterform-ajax.html %}
 
+<!-- Britney Köln -->
 <script type='application/ld+json'>
 {
   "@context": "http://www.schema.org",
@@ -83,7 +84,8 @@ US Live Booking: michael [at] heavy-trip [dot] com
     "name": "Exploded View"
   }
 }
- </script>
+</script>
+
 
 <!-- Kampnagel Hamburg -->
  <script type='application/ld+json'>
@@ -119,8 +121,7 @@ US Live Booking: michael [at] heavy-trip [dot] com
   </script>
 
 <!-- Roter Salon Berlin -->
-
-  <script type='application/ld+json'>
+<script type='application/ld+json'>
   {
     "@context": "http://www.schema.org",
     "@type": "MusicEvent",

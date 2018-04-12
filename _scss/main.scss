@@ -2,11 +2,9 @@
 @import "mixins";
 @import "reset";
 @import "syntax";
-
 @import "grid";
 @import "layout";
 @import "typography";
-
 @import "header";
 @import "navigation";
 @import "footer";
@@ -14,8 +12,8 @@
 @import "newsletterform";
 
 body {
-    background: white;
-    margin-top: $header-height;
+  background: white;
+  margin-top: $header-height;
 }
 
 a {
@@ -27,10 +25,10 @@ a {
 }
 
 img {
-    width: auto;
-    max-width: 100%;
-    height: auto !important;
-    max-height: 300px;
+  width: auto;
+  max-width: 100%;
+  height: auto !important;
+  max-height: 300px;
 }
 
 a.btn {
@@ -41,14 +39,13 @@ a.btn {
   text-transform: uppercase;
   font-family: $headings-font-family;
   font-weight: 500;
-  letter-spacing: .08em;
+  letter-spacing: 0.08em;
 }
 
 .home .subtitle {
   font-size: 1.1em;
   font-weight: normal;
   color: $color-grey-400;
-
 }
 
 .category-heading {
@@ -60,16 +57,23 @@ a.btn {
 }
 
 .home .post-heading {
+  // @extend .h4;
   @extend .h4;
 }
-
 // Iframe correction within the grid
 [class*="col-"] iframe {
   max-width: 100%;
 }
 
-hr,
-.separator {
+.separator,
+hr {
   margin: 1em;
-   border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.event {
+  border-top: 1px solid $color-grey-400;
 }
