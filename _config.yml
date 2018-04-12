@@ -3,7 +3,7 @@ markdown: kramdown
 
 permalink: pretty
 highlighter: null # or rouge or null
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "package-lock.json", "git-backup-2018-4-5-20-43", "Gemfile", "Gemfile.lock", "ev2.gemspec"]
 
 twitter_username: explodedviewband
 instagram_username: explodedviewband
@@ -13,6 +13,7 @@ soundcloud_username: explodedviewofficial
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Jekyll SEO
 title: Exploded View
