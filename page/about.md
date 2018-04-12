@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Exploded View
 permalink: /about/
 ---
 ### EXPLODED VIEW (MX / D / GB / SWE)
