@@ -818,9 +818,14 @@ a {
   a:visited {
     color: #b90000; }
 
+img,
+video,
+audio {
+  max-width: 100%;
+  height: auto; }
+
 img {
   width: auto;
-  max-width: 100%;
   height: auto !important;
   max-height: 300px; }
 

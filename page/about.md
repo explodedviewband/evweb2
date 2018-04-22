@@ -3,7 +3,7 @@ layout: page
 title: About Exploded View
 permalink: /about/
 ---
-### EXPLODED VIEW (MX / D / GB / SWE)
+## EXPLODED VIEW (MX / D / GB / SWE)
 
 ![Exploded View - Band]({{site.baseurl}}/assets/exploded-view-band-picture.jpg)
 
