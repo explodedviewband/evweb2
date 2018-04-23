@@ -826,6 +826,7 @@ audio {
 
 img {
   width: auto;
+  max-width: 100%;
   height: auto !important;
   max-height: 300px; }
 
@@ -838,6 +839,8 @@ a.btn {
   font-family: "Cabin", Times, Verdana, sans-serif;
   font-weight: 500;
   letter-spacing: 0.08em; }
+  a.btn:hover {
+    background-color: #ea1313; }
 
 .home .subtitle {
   font-size: 1.1em;

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: Contact Exploded View for Booking, Press or Label and Licensing
 permalink: contact/
 ---
 
@@ -13,7 +14,3 @@ permalink: contact/
 **Label/ Licensing/ US Press:** brad [at] sacredbonesrecords [dot] com // [Website](http://sacredbonesrecords.com){:target="_blank"}
 
 **UK Press:** kate [at] stereosanctity [dot] co [dot] uk // [Website](http://stereosanctity.co.uk){:target="_blank"}
-
----
-
-_website: studio [at] trafo-m.de_

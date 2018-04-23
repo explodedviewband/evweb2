@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Summer came Early - Bandcamp Download"
+description: Stream and purchase Summer came Early on bandcamp
 date:   2018-01-12 14:00:23 +0200
 categories: digitaldownloads
 ---

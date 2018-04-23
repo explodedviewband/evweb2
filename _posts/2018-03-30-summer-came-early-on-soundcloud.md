@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Listen on Soundcloud: Summer Came Early"
+description: Listen to Exploded View - Summer Came Early EP
 date:   2017-11-02 13:00:23 +0200
 categories: audio
 ---

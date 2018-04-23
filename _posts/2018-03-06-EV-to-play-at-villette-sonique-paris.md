@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "EV to play Villette Sonique, Paris on 26.5 "
+description: Exploded View will play at Villette Sonique Festival in Paris on May 26th 2018
 date:   2018-03-06 18:00:23 +0200
 categories: news
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "News Exploded View Tour Europe in Spring 2018!"
+description: Live dates for Exploded View`s EU Tour in Spring 2018
 date:   2018-03-13 19:00:23 +0200
 categories: news
 ---

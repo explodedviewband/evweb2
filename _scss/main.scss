@@ -47,6 +47,10 @@ a.btn {
   font-family: $headings-font-family;
   font-weight: 500;
   letter-spacing: 0.08em;
+
+  &:hover {
+    background-color: darken($primary, 7%);
+  }
 }
 
 .home .subtitle {

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Tourdates
+description: Tourdates and Live Gigs. You may subscribe to our newsletter to be the first informed about upcoming gigs and releases.
 permalink: /tour-dates/
 ---
 

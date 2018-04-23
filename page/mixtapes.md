@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mixtapes
+description: Listen to Mixes of Exploded View members Anika and Martin on Soundcloud or Spotify
 permalink: /mixtapes/
 ---
 <div>
