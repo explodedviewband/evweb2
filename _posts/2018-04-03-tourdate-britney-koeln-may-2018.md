@@ -1,6 +1,6 @@
 ---
 layout: eventdate
-title:  "Exploded View at Britney Schauspiel Köln"
+title:  Exploded View at Britney Schauspiel Köln
 description: Confirmed date - Exploded View Show at Schauspiel Köln
 date:   2018-04-02 13:00:23 +0200
 categories: eventdate news
