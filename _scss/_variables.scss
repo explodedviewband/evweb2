@@ -11,11 +11,9 @@ $breakpoint-medium: "only screen and (min-width: 30em)";
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
-
 // grid variables
 $grid-columns: 12;
 $grid-max-width: 65em;
-
 
 // COLORS
 $color-lightgrey: rgb(246,246,246);
@@ -23,7 +21,7 @@ $color-ev-red: rgb(221, 0, 0);
 $text-color: rgb(27, 27, 27);
 $color-grey-400: rgb(153, 153, 153);
 $link-color: $color-ev-red;
-$link-hover-color: lighten($color-ev-red, 7%);
+$link-hover-color: darken($color-ev-red, 7%);
 $link-visited-color: darken($color-ev-red, 7%);
 
 $primary: #e33; // Thats a sample how you could change a BootStrap variable.
@@ -33,7 +31,7 @@ $primary: #e33; // Thats a sample how you could change a BootStrap variable.
 
 $link-color:                theme-color("primary") !default;
 $link-decoration:           none !default;
-$link-hover-color:          darken($link-color, 15%) !default;
+// $link-hover-color:          darken($link-color, 15%) !default;
 $link-hover-decoration:     underline !default;
 
 $spacer: 1rem !default;
@@ -65,3 +63,5 @@ $headings-color: inherit !default;
 // Header
 $header-height: 70px;
 $font-size-title: 18px;
+
+$border-radius: 1px;

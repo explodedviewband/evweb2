@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: Contact Exploded View for Booking, Press or Label and Licensing
 permalink: contact/
 ---
 

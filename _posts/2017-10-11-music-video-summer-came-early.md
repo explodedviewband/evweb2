@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Exploded View - Summer Came Early (Official Music Video)"
+description: Official Video for Summer Came Early track
 date:   2017-10-11 23:00:23 +0200
 categories: video
 ---
