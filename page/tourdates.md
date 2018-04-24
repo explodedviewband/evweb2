@@ -262,7 +262,45 @@ US Live Booking: michael [at] heavy-trip [dot] com
 }
 </script>
 
-
+<!-- Le Hall des Chars Strasbourg-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Exploded View (Sacred Bones Records) + Guest",
+  "url": "https://www.facebook.com/events/2053047204980665/"
+  "startDate": "2018-05-30",
+  "endDate": "2018-05-30",
+  "location": {
+    "@type": "Place",
+    "name": "Le Hall des Chars",
+    "sameAs": "http://www.espace-k.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 rue du Hohwald",
+      "addressLocality": "Strasbourg",
+      "postalCode": "67000",
+      "addressCountry": "FR"
+    }
+  },
+  "image": [
+    "http://strasbourg.curieux.net/agenda/images/visuel/5/image_58427.jpg"
+   ],
+  "description": "Komakanette, ton partenaire des soirées qui font tchiki-boum présente un concert de qualité avec Anika, la journaliste politique et princesse du post punk.
+  Exploded View [psyché krautrock post wave / DE-MEX]
+  Derrière le calme apparent d’Exploded View explose une énergie industrielle composée de loop, de drones, de sonorités métalliques, de nappes entremêlées desquelles surplombe la voix éthérée d’Anika mais des textes plutôt engagés politiquement, socialement.
+  Véritable cocktail de pop hallucinogène, de bricolages dub et de krautrock, Exploded View est assurément l’un des groupes les plus attendus de 2018, mais aussi à long terme le meilleur prétendant au titre d’héritier légitime de feu Broadcast.",
+  "offers": {
+    "@type": "Offer",
+    "url": "http://strasbourg.curieux.net/agenda/sortie?row=58427&genre=categorie&nom=rock-n-roll&evenement=hall-des-chars-exploded-view-guest-strasbourg"
+  },
+  "performer": [{
+    "@type": "MusicGroup",
+    "name": "Exploded View",
+    "sameAs: "https://explodedview.info"
+  }]
+}
+</script>
 
 <!-- Le Brass Bruxelles / Forst-->
 <script type="application/ld+json">
