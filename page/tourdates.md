@@ -261,3 +261,52 @@ US Live Booking: michael [at] heavy-trip [dot] com
   }]
 }
 </script>
+
+
+
+<!-- Le Brass Bruxelles / Forst-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Exploded View (Sacred Bones Records) - Public Psyche - Luminance",
+  "url": "https://www.facebook.com/events/2043685399245256/"
+  "startDate": "2018-05-30",
+  "endDate": "2018-05-30",
+  "location": {
+    "@type": "Place",
+    "name": "BRASS - Centre Culturel de Forest",
+    "sameAs": "http://lebrass.be",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Avenue Van Volxem 364",
+      "addressLocality": "Forest/Vorst",
+      "postalCode": "1190",
+      "addressCountry": "BE"
+    }
+  },
+  "image": [
+    "https://booking.utick.be/plugins/upload/shows/5aa7b7f88e3c0_large.jpg",
+    "http://lebrass.be/wp-content/uploads/2018/03/EXPLODED-VIEW-NEW-800x533.jpg",
+   ],
+  "description": "Exploded View formalise la rencontre de l'égérie britannique ANIKA, de Martin Thulin (aussi connu pour ses travaux au sein de Crocodiles), d'Hugo Quezada (Robota) et d'Hector Melgajero (Jessy Bulbo / Nos llamamos).
+  Le résultat est un impressionant mélange de Post Punk, de Shoegaze et de Musiques Industrielles : des ambiances éthérées qui s'envolent en phases bruyantes, un mur noise surplombé par la voix si caractérique de la berlinoise Anika.
+  Le projet, du fait de la disparité géographique de ses membres (entre l'Allemagne, la Suède et le Mexique), est trop rare sur scène.
+  Cela fait déjà quelques temps que le Collectif Mental travaille au retour d'Anika en terre bruxelloise, c'est désormais effectif grâce au soutien et à la collaboration du Centre Culturel De Forest (LE BRASS).",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://booking.utick.be/?module=MODCATALOGUEDATES&POS=BRASS&activityguid=AC22C444-655F-A6FA-B416-61C938E46551"
+  },
+  "performer": [{
+    "@type": "MusicGroup",
+    "name": "Exploded View",
+    "sameAs: "https://explodedview.info"
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Public Psyche",
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Luminance",
+  }]
+}
+</script>
