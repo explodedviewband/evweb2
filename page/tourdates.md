@@ -153,3 +153,111 @@ US Live Booking: michael [at] heavy-trip [dot] com
     }
   }
 </script>
+
+<!-- La Vilette Sonique Paris -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Exploded View at Villete Sonique",
+  "startDate": "2018-05-26T19:30",
+  "location": {
+    "@type": "Halle",
+    "name": "Grande Halle - Nef Nord",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "211 Av. Jean Jaures",
+      "addressLocality": "Paris",
+      "postalCode": "75019",
+      "addressCountry": "FR"
+    }
+  },
+  "image": [
+    "http://www.villettesonique.com/wp-content/uploads/2018/02/EXPLODED-VIEW-page.jpg",
+    "https://lavillette.com/wp-content/uploads/2017/05/960-18-Villette-Sonique-2.jpg",
+   ],
+  "description": "Exploded View est le dernier projet de Annika Henderson, elle est accompagnée de trois musiciens mexicains talentueux, le groupe fait un mélange de krautrock et de post punk. Mais derrière le calme apparent d’Exploded View explose aussi une énergie plus industrielle composée de loop, de drones, de sonorités métalliques, de nappes entremêlées desquelles surplombe la voix éthérée d’Annika mais des textes plutôt engagés politiquement, socialement.",
+  "endDate": "2018-05-26",
+  "performer": [{
+    "@type": "MusicGroup",
+    "name": "Exploded View",
+    "sameAs: "https://explodedview.info"
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Marquis de Sade",
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Anna von Hauswolff",
+    }]
+}
+</script>
+
+<!-- Moth Club London -->
+<script type='application/ld+json'>
+  {
+    "@context": "http://www.schema.org",
+    "@type": "MusicEvent",
+    "name": "Exploded View (Full Band)",
+    "url": "http://www.mothclub.co.uk/events/2018/5/27/exploded-view",
+    "description": "Bad Vibrations is delighted to welcome Exploded View to the MOTH CLUB. ",
+    "startDate": "05/27/2018",
+    "endDate": "05/27/2018",
+    "location": {
+      "@type": "Place",
+      "name": "Moth Club",
+      "sameAs": "http://www.mothclub.co.uk",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Old Trades Hall Valette Street",
+        "addressLocality": "London",
+        "postalCode": "E9 6NU",
+        "addressCountry": "United Kingdom"
+      }
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.seetickets.com/event/exploded-view/moth-club/1208044"
+    },
+    "performer": {
+      "@type": "PerformingGroup",
+      "name": "Exploded View"
+    }
+  }
+</script>
+
+<!-- La Cave aux Poetes Roubaix-->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "EXPLODED VIEW + Beechwood",
+  "url": "https://www.caveauxpoetes.com/concert-exploded-view-anika-283.html"
+  "startDate": "2018-05-28",
+  "endDate": "2018-05-28",
+  "location": {
+    "@type": "Place",
+    "name": "La Cave aux  Poètes",
+    "sameAs": "https://www.caveauxpoetes.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "16, rue du Grand Chemin,",
+      "addressLocality": "Roubaix",
+      "postalCode": "59100",
+      "addressCountry": "FR"
+    }
+  },
+  "image": [
+    "http://www.caveauxpoetes.com/img/artist/exploded-view.jpg",
+    "https://bainsdeminuitblog.files.wordpress.com/2018/02/exploded-view-new.jpg?w=1200&h=400&crop=1",
+   ],
+  "description": "Exploded View est le dernier projet de Annika Henderson, elle est accompagnée de trois musiciens mexicains talentueux, le groupe fait un mélange de krautrock et de post punk. Mais derrière le calme apparent d’Exploded View explose aussi une énergie plus industrielle composée de loop, de drones, de sonorités métalliques, de nappes entremêlées desquelles surplombe la voix éthérée d’Annika mais des textes plutôt engagés politiquement, socialement.",
+  "performer": [{
+    "@type": "MusicGroup",
+    "name": "Exploded View",
+    "sameAs: "https://explodedview.info"
+  },{
+    "@type" : "MusicGroup",
+    "name" : "Beechwood",
+  }]
+}
+</script>
