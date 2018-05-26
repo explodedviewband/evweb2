@@ -4,6 +4,9 @@ title: Tourdates
 description: Tourdates and Live Gigs. You may subscribe to our newsletter to be the first informed about upcoming gigs and releases.
 permalink: /tour-dates/
 ---
+# EU Tour Spring 2018
+
+---
 
 **Booking inquires, please contact:**
 
@@ -11,7 +14,7 @@ EU + UK Live Booking: ck [at] powerline-agency [dot] com
 
 US Live Booking: michael [at] heavy-trip [dot] com
 
-# EU Tour Spring 2018
+---
 
 **22.5.18** Exploded View (Full Live Band) @ Britney Schauspiel, **Köln** DE // [Tickets](https://www.schauspiel.koeln/haus/britney/)
 
