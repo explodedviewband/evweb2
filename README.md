@@ -92,7 +92,7 @@ gulp.task("deploy", ["jekyll-build"], function () {
 ---
 
 ## TODO / Improvements
-- better sitemap support (priority/images)
-- minifiction, uncss, etc
-- image optimization
-- improve json-ld support for events and albums, tracks
+- better sitemap support (priority/images) (x)
+- minifiction, uncss, etc (x)
+- image optimization (x)
+- improve json-ld support for events and albums, tracks (partially done or prepared)(o)
