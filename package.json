@@ -14,7 +14,9 @@
     "gulp-autoprefixer": "1.0.0",
     "gulp-plumber": "^1.2.0",
     "gulp-sass": "^2.3.2",
-    "gulp-util": "^3.0.8"
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "stylelint-config-recommended": "^2.1.0"
   },
   "repository": {
     "type": "git",
