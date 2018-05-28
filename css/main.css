@@ -483,14 +483,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Cabin", Times, Verdana, sans-serif;
+  font-family: "Cabin", Helvetica, Verdana, sans-serif;
   font-weight: 700;
   letter-spacing: 1px; }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .home .post-heading, .h5, .h6 {
   margin-bottom: 0.5rem;
-  font-family: "Cabin", Times, Verdana, sans-serif;
+  font-family: "Cabin", Helvetica, Verdana, sans-serif;
   font-weight: 500;
   line-height: 1.2;
   color: inherit; }
@@ -524,10 +524,11 @@ h6, .h6 {
     max-width: calc(800px - (30px * 2));
     margin: 0 auto; }
   .header .site-title {
+    font-family: "Cabin", Helvetica, Verdana, sans-serif;
     font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
-    margin: .8em 0;
+    margin: .7em 0;
     letter-spacing: 1px;
     float: left; }
     .header .site-title a {
@@ -869,7 +870,7 @@ a.btn {
   padding: 1em;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: "Cabin", Times, Verdana, sans-serif;
+  font-family: "Cabin", Helvetica, Verdana, sans-serif;
   font-weight: 500;
   letter-spacing: 0.08em; }
   a.btn:hover {

@@ -13,10 +13,11 @@
   }
 
   .site-title {
+    font-family: $headings-font-family;
     font-size: $font-size-title;
     text-transform: uppercase;
     font-weight: 700;
-    margin: .8em 0;
+    margin: .7em 0;
     letter-spacing: 1px;
     float: left;
 
