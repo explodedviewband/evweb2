@@ -5,7 +5,52 @@ permalink: /about/
 ---
 ## EXPLODED VIEW (MX / D / GB / SWE)
 
-![Exploded View - Band]({{site.baseurl}}/assets/exploded-view-band-picture.jpg)
+![Exploded View - Band]({{site.baseurl}}/assets/ev press pic 2018.jpg)
+
+Exploded View, the international project of UK-bred, Berlin-based Annika Henderson, and Mexico City-based Hugo Quezada (Robota) and Martin Thulin (Crocodiles), return with their second album Obey, which is set for release September 28th via Sacred Bones. The first single from the record "Raven Raven" is streaming online now.
+
+Commenting on the hypotonic, spooky new single Exploded View said, “Ever felt like someone is watching your every move? Your every twitch, your every sneeze? Stare back into the face of observation. Never give in to external control. You can break this.”
+
+Leaving behind their live recording process and now a tight three-piece, Exploded View strike a special balance between precise and wild, unshackled and grounded, groovy and unhinged. The have a knack for making the esoteric feel accessible and crafting pop music out of seemingly raw consciousness. This ability to make beautiful music that feels written beyond the veil is at the heart of what makes Exploded View so captivating, and it’s on full display all over Obey. Recorded in Mexico City, the album feels like a liberation of creative impulses and expression allowing the band to reach more mature sonic territories.
+ 
+Obey flows like a dream sequence with the aptly titled “Lullaby” opening the album; it slowly lures the listener into a lucid state, preparing them for the journey to come. The ten apocalyptic, yet soothing songs encompass all the classic dream motifs: intrigue, danger, ecstasy, hard to place, yet primordial visions, and a constant sense of movement. 
+
+US tour this Fall 2018!
+
+Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
+Sat. Oct. 20 - Austin, TX @ The Parish
+Mon. Oct. 22 - Phoenix, AZ @ Club Congress
+Wed. Oct. 24 - San Diego, CA @ The Whistle Stop
+Thu. Oct. 25 - Pomona, CA @ The Glass House
+Fri. Oct. 26 - Los Angeles, CA @ The Echo
+Sun. Oct. 28 - San Francisco, CA @ Rickshaw Stop
+Mon. Oct. 29 - Portland, OR @ Mississippi Studio
+Tue. Oct. 30 - Seattle, WA @ Vera Project
+Wed. Oct. 31 - Vancouver, BC @ Fox Cabaret
+Thu. Nov. 1 - Chicago, IL @ The Empty Bottle
+Fri. Nov. 2 - Detroit, MI @ Deluxxx Fluxxx
+Sat. Nov. 3 - Toronto, ON @ The Garrison
+Mon. Nov. 5 - Montreal, QC @ Sala Rossa
+Tue. Nov. 6 - Boston, MA @ Middle East
+Thu. Nov. 8 - Brooklyn, NY @ Rough Trade
+Fri. Nov. 9 - Philadelphia, PA @ PhilMOCA
+Sat. Nov. 10 - Norfolk, VA @ Charlies American Cafe
+Sun. Nov. 11 - Washington, DC @ DC9
+Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room
+
+Obey track list:
+1. Lullaby 
+2. Open Road
+3. Dark Stains
+4. Gone Tomorrow 
+5. Obey
+6. Sleepers
+7. Letting Go Of Childhood Dreams
+8. Raven Raven (stream) 
+9. Come On Honey
+10. Rant
+
+Full Biog:
 
 Exploded View is a collaborative project helmed by the UK-born, Berlin-based political-journalist-turned-musician Anika   (Invada Records / Stones Throw). After playing a string of 2014 solo   shows in Mexico with a backing lineup composed of local producers  Martin  Thulin, Hugo Quezada and Amon Melgarejo, Anika and her new  bandmates  discovered a chemistry that they simply had to capture on  tape.
 
