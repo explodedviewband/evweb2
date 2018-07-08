@@ -865,7 +865,7 @@ img {
   max-height: 300px; }
 
 a.btn {
-  color: #f6f6f6;
+  color: #797256;
   background-color: #e33;
   padding: 1em;
   text-decoration: none;
@@ -874,7 +874,7 @@ a.btn {
   font-weight: 500;
   letter-spacing: 0.08em; }
   a.btn:hover {
-    background-color: #ea1313; }
+    background-color: #797256; }
 
 .home .subtitle {
   font-size: 1.1em;
