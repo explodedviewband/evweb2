@@ -15,29 +15,50 @@ EU + UK Live Booking: ck [at] powerline-agency [dot] com
 US Live Booking: michael [at] heavy-trip [dot] com
 
 ---
-US Tour THIS FALL!
-More details here: facebook.com/explodedviewband
-
+<br/>
+## US tour this Fall 2018!
+<br/>More details here:
+<a href="https://www.facebook.com/explodedviewband/">facebook.com/explodedviewband</a><br/><br/>
 Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
+<br/>
 Sat. Oct. 20 - Austin, TX @ The Parish
+<br/>
 Mon. Oct. 22 - Phoenix, AZ @ Club Congress
+<br/>
 Wed. Oct. 24 - San Diego, CA @ The Whistle Stop
+<br/>
 Thu. Oct. 25 - Pomona, CA @ The Glass House
+<br/>
 Fri. Oct. 26 - Los Angeles, CA @ The Echo
+<br/>
 Sun. Oct. 28 - San Francisco, CA @ Rickshaw Stop
+<br/>
 Mon. Oct. 29 - Portland, OR @ Mississippi Studio
+<br/>
 Tue. Oct. 30 - Seattle, WA @ Vera Project
+<br/>
 Wed. Oct. 31 - Vancouver, BC @ Fox Cabaret
+<br/>
 Thu. Nov. 1 - Chicago, IL @ The Empty Bottle
+<br/>
 Fri. Nov. 2 - Detroit, MI @ Deluxxx Fluxxx
+<br/>
 Sat. Nov. 3 - Toronto, ON @ The Garrison
+<br/>
 Mon. Nov. 5 - Montreal, QC @ Sala Rossa
+<br/>
 Tue. Nov. 6 - Boston, MA @ Middle East
+<br/>
 Thu. Nov. 8 - Brooklyn, NY @ Rough Trade
+<br/>
 Fri. Nov. 9 - Philadelphia, PA @ PhilMOCA
+<br/>
 Sat. Nov. 10 - Norfolk, VA @ Charlies American Cafe
+<br/>
 Sun. Nov. 11 - Washington, DC @ DC9
+<br/>
 Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room
+<br/>
 
 PAST:
 
