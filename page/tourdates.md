@@ -15,6 +15,31 @@ EU + UK Live Booking: ck [at] powerline-agency [dot] com
 US Live Booking: michael [at] heavy-trip [dot] com
 
 ---
+US Tour THIS FALL!
+More details here: facebook.com/explodedviewband
+
+Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
+Sat. Oct. 20 - Austin, TX @ The Parish
+Mon. Oct. 22 - Phoenix, AZ @ Club Congress
+Wed. Oct. 24 - San Diego, CA @ The Whistle Stop
+Thu. Oct. 25 - Pomona, CA @ The Glass House
+Fri. Oct. 26 - Los Angeles, CA @ The Echo
+Sun. Oct. 28 - San Francisco, CA @ Rickshaw Stop
+Mon. Oct. 29 - Portland, OR @ Mississippi Studio
+Tue. Oct. 30 - Seattle, WA @ Vera Project
+Wed. Oct. 31 - Vancouver, BC @ Fox Cabaret
+Thu. Nov. 1 - Chicago, IL @ The Empty Bottle
+Fri. Nov. 2 - Detroit, MI @ Deluxxx Fluxxx
+Sat. Nov. 3 - Toronto, ON @ The Garrison
+Mon. Nov. 5 - Montreal, QC @ Sala Rossa
+Tue. Nov. 6 - Boston, MA @ Middle East
+Thu. Nov. 8 - Brooklyn, NY @ Rough Trade
+Fri. Nov. 9 - Philadelphia, PA @ PhilMOCA
+Sat. Nov. 10 - Norfolk, VA @ Charlies American Cafe
+Sun. Nov. 11 - Washington, DC @ DC9
+Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room
+
+PAST:
 
 **22.5.18** Exploded View (Full Live Band) @ Britney Schauspiel, **Köln** DE // [Tickets](https://www.schauspiel.koeln/haus/britney/)
 
