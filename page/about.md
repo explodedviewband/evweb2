@@ -15,9 +15,9 @@ Commenting on the hypotonic, spooky new single Exploded View said, “Ever felt 
 Leaving behind their live recording process and now a tight three-piece, Exploded View strike a special balance between precise and wild, unshackled and grounded, groovy and unhinged. The have a knack for making the esoteric feel accessible and crafting pop music out of seemingly raw consciousness. This ability to make beautiful music that feels written beyond the veil is at the heart of what makes Exploded View so captivating, and it’s on full display all over Obey. Recorded in Mexico City, the album feels like a liberation of creative impulses and expression allowing the band to reach more mature sonic territories.
  
 Obey flows like a dream sequence with the aptly titled “Lullaby” opening the album; it slowly lures the listener into a lucid state, preparing them for the journey to come. The ten apocalyptic, yet soothing songs encompass all the classic dream motifs: intrigue, danger, ecstasy, hard to place, yet primordial visions, and a constant sense of movement. 
-<div align="Left"><br/><br/>
-US tour this Fall 2018!
-<br/><br/>
+<div align="Left"><br/>
+## US tour this Fall 2018!
+<br/>More details here:www.facebook.com/explodedviewband/<br/><br/>
 Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
 <br/>
 Sat. Oct. 20 - Austin, TX @ The Parish
@@ -58,7 +58,6 @@ Sun. Nov. 11 - Washington, DC @ DC9
 <br/>
 Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room
 </div> 
-<br/>
 <br/>
 Obey track list:
 1. Lullaby 
