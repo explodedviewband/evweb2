@@ -4,7 +4,7 @@ title: Tourdates
 description: Tourdates and Live Gigs. You may subscribe to our newsletter to be the first informed about upcoming gigs and releases.
 permalink: /tour-dates/
 ---
-# EU Tour Spring 2018
+# EV LIVE 
 
 ---
 
@@ -16,7 +16,7 @@ EU + UK Live Booking: ck [at] powerline-agency [dot] com
 
 ---
 <br/>
-## US tour this Fall 2018!
+## US Tour This Fall 2018!
 <br/>More details here:
 <a href="https://www.facebook.com/explodedviewband/">facebook.com/explodedviewband</a><br/><br/>
 Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
