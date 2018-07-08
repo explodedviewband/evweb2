@@ -3,6 +3,8 @@ layout: page
 title: About Exploded View
 permalink: /about/
 ---
+ <div align="Left">
+ 
 ## EXPLODED VIEW (MX / D / GB / SWE)
 
 ![Exploded View - Band]({{site.baseurl}}/assets/ev press pic 2018.jpg)
@@ -58,6 +60,8 @@ During  their rehearsals in Mexico City, the four musicians discovered  a new  s
 
 
 ‘No More Parties In The Attic’  is a song that finds  power in its conflict; a demented collage of  noisy perplexing tones and  ominous drones backed with distorted  guitars, a devastating bass line  and fractured rhythms. While Anika’s  jarring vocal display may appear  softer than her previous works, the  song is laced with her unmistakable  icy & nonchalant vocals  delivered in ruinous calm.
+
+</div> 
 
 <script type="application/ld+json">
 {
