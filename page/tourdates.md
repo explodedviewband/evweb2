@@ -12,7 +12,7 @@ permalink: /tour-dates/
 
 EU + UK Live Booking: ck [at] powerline-agency [dot] com
 
-US Live Booking: michael [at] heavy-trip [dot] com
+![Heavy_Trip]({{ http://heavy-trip.com/ }}/assets/index heavy trip.png)US Live Booking: michael [at] heavy-trip [dot] com
 
 ---
 <br/>
