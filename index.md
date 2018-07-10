@@ -19,6 +19,7 @@ seo:
 
 <a class="btn btn-primary btn-lg buy" href="https://www.sacredbonesrecords.com/products/sbr209-exploded-view-obey">Pre-Order 'Obey' here</a>
 <br/><br/>
+[![Exploded view_NA_TOUR]({{ "assets/sbr209-explodedview-northamerica2018-r2.jpg"}})](https://www.facebook.com/explodedviewband/)<br/><br/>
 ## Listen to New Single 'Raven Raven'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zl-1qPg8iuE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br/><br/>
