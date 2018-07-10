@@ -12,7 +12,7 @@ permalink: /tour-dates/
 
 EU + UK Live Booking: ck [at] powerline-agency [dot] com
 
-![heavy trip logo]({{http://heavy-trip.com/}}/assets/index heavy trip.png)US Live Booking: michael [at] heavy-trip [dot] com
+![heavy trip logo]({{www.heavy-trip.com}}/assets/index heavy trip.png) US Live Booking: michael [at] heavy-trip [dot] com
 
 ---
 <br/>
@@ -23,7 +23,7 @@ Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
 <br/>
 Sat. Oct. 20 - Austin, TX @ The Parish
 <br/>
-Mon. Oct. 22 - Phoenix, AZ @ Club Congress
+Mon. Oct. 22 - Tucson, AZ @ Club Congress
 <br/>
 Wed. Oct. 24 - San Diego, CA @ The Whistle Stop
 <br/>
