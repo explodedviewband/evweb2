@@ -29,7 +29,7 @@ Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
 <br/>
 Sat. Oct. 20 - Austin, TX @ The Parish
 <br/>
-Mon. Oct. 22 - Phoenix, AZ @ Club Congress
+Mon. Oct. 22 - Tucson, AZ @ Club Congress
 <br/>
 Wed. Oct. 24 - San Diego, CA @ The Whistle Stop
 <br/>
