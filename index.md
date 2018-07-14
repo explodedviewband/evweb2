@@ -13,7 +13,7 @@ seo:
 ---
 
 # Exploded View
-## Sacred Bones
+## New Album 'Obey' Set For Release September 28th 2018 Via Sacred Bones.
 {: .subtitle}
 
 [![OBEY cover]({{site.baseurl}}/assets/obey_cover.jpg)](https://www.sacredbonesrecords.com/products/sbr209-exploded-view-obey)
@@ -24,9 +24,11 @@ seo:
 
 ## Listen to New Single 'Raven Raven'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zl-1qPg8iuE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br/><br/>
+
 ## US Tour This Fall 2018!
-<br/>More details here:
+
+More details here:
+
 <a href="https://www.facebook.com/explodedviewband/">facebook.com/explodedviewband</a><br/><br/>
 Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
 <br/>
