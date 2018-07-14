@@ -16,15 +16,19 @@ $grid-columns: 12;
 $grid-max-width: 65em;
 
 // COLORS
-$color-lightgrey: rgb(246,246,246);
 $color-ev-red: rgb(221, 0, 0);
+$color-ev-obey: #716c4e;
+
+
+
+$color-lightgrey: rgb(246,246,246);
 $text-color: rgb(27, 27, 27);
 $color-grey-400: rgb(153, 153, 153);
-$link-color: $color-ev-red;
-$link-hover-color: darken($color-ev-red, 7%);
-$link-visited-color: darken($color-ev-red, 7%);
+$link-color: $color-ev-obey;
+$link-hover-color: darken($link-color, 7%);
+$link-visited-color: darken($link-color, 7%);
 
-$primary: #e33; // Thats a sample how you could change a BootStrap variable.
+$primary: $color-ev-obey; // Thats a sample how you could change a BootStrap variable.
 // $theme-colors: (
 //   "primary": #e39,
 // );
