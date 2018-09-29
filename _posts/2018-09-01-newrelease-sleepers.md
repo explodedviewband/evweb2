@@ -1,23 +1,18 @@
 ---
 layout: eventdate
-title:  Exploded View at Britney Schauspiel Köln
-description: Confirmed date - Exploded View Show at Schauspiel Köln
-date:   2018-04-02 13:00:23 +0200
-categories: eventdate news
+title:  New Video From Exploded View! 'Sleepers'
+description: New track 'Sleepers', latest to be released from forthcoming record, 'Obey' out on Sacred Bones on 28th Sept 2018.  
+date:   2018-09-13 13:00:23 +0200
+categories: newrelease news
 event:
-  title: Exploded View feat. Anika + Support Warm Graves
-  description: Exploded View is playing in Cologne at Schauspiel Köln, supported by Warm Graves
-  date: 2018-05-22
-  url: "https://www.schauspiel.koeln/spielplan/monatsuebersicht/exploded-view/2700/"
-  imageurl:
-  venue:
-    name: "Britney @Schauspiel Köln (Außenspielstätte Offenbachplatz)"
-    url:  "https://www.schauspiel.koeln/haus/britney/"
-    streetAddress: "Offenbachplatz"
-    zipcode: "50667"
-    city: "Köln"
-    country: "Germany"
-  ticketsurl: "https://www.schauspiel.koeln/spielplan/monatsuebersicht/exploded-view/2700/karten-kaufen/2700/"
+  title: New Video From Exploded View! 'Sleepers'
+  description: New Exploded View track 'Sleepers', latest to be released from forthcoming record, 'Obey' out on Sacred Bones on 28th Sept 2018.
+  date: 2018-09-01
+  url: "https://www.youtube.com/watch?v=C6SXE9R67Wg"
+  imageurl: https://i.ytimg.com/vi/C6SXE9R67Wg/maxresdefault.jpg
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/C6SXE9R67Wg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  Listen on Spotify:
+  spotifyurl: "https://open.spotify.com/track/3jP5t43ucbpaQGh2sETaqc"
 ---
 
 <script type='application/ld+json'>
