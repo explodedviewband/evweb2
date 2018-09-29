@@ -31,10 +31,10 @@ a {
   color: #00a; }
 
 a:hover {
-  color: #716c4e; }
+  color: #000; }
 
 a:visited {
-  color: #716c4e; }
+  color: #a0a; }
 
 /*****************************************************************************/
 /*
@@ -67,7 +67,7 @@ a:visited {
   color: #a00; }
 
 .title a:hover {
-  color: #716c4e; }
+  color: #000; }
 
 .meta {
   color: #aaa; }
@@ -544,9 +544,9 @@ h6, .h6 {
       text-decoration: none;
       color: #1b1b1b; }
       .header .topnavigation a:hover {
-        color: #716c4e; }
+        color: #b90000; }
       .header .topnavigation a.active {
-        color: #716c4e; }
+        color: #dd0000; }
   .header ul.navigation {
     list-style: none; }
     .header ul.navigation li.nav-item {
@@ -685,7 +685,7 @@ nav label:before {
 
 #mc_embed_signup .button {
   clear: both;
-  background-color: #716c4e;
+  background-color: #e33;
   border: 0 none;
   border-radius: 1px;
   transition: all 0.23s ease-in-out 0s;
@@ -705,7 +705,7 @@ nav label:before {
   width: auto; }
 
 #mc_embed_signup .button:hover {
-  background-color: #716c4e; }
+  background-color: #b90000; }
 
 #mc_embed_signup .small-meta {
   font-size: 11px; }
@@ -848,9 +848,9 @@ body {
   margin-top: 70px; }
 
 a {
-  color: #716c4e; }
+  color: #dd0000; }
   a:visited {
-    color: #716c4e; }
+    color: #b90000; }
 
 img,
 video,
@@ -865,8 +865,8 @@ img {
   max-height: 300px; }
 
 a.btn {
-  color: #000005;
-  background-color: #797256;
+  color: #f6f6f6;
+  background-color: #e33;
   padding: 1em;
   text-decoration: none;
   text-transform: uppercase;
@@ -874,7 +874,7 @@ a.btn {
   font-weight: 500;
   letter-spacing: 0.08em; }
   a.btn:hover {
-    background-color: #716c4e; }
+    background-color: #ea1313; }
 
 .home .subtitle {
   font-size: 1.1em;
