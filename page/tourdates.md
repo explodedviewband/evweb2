@@ -64,8 +64,8 @@ Sun. Nov. 11 - Washington, DC @ DC9 [Tickets](https://www.ticketfly.com/event/17
 Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room
 
 
+<!-- 
 ## PAST:
-
 ## US Tour This Fall 2018!
 More details here: [facebook.com/explodedviewband](https://www.facebook.com/explodedviewband/)
 
@@ -109,11 +109,11 @@ Sat. Nov. 10 - Norfolk, VA @ Charlies American Cafe [Tickets](https://www.eventb
 
 Sun. Nov. 11 - Washington, DC @ DC9 [Tickets](https://www.ticketfly.com/event/1720434-exploded-view-washington/)
 
-Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room
+Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room -->
 
 
 ## PAST:
->>>>>>> Stashed changes
+### Europe Tour Spring 2018
 
 **22.5.18** Exploded View (Full Live Band) @ Britney Schauspiel, **Köln** DE // [Tickets](https://www.schauspiel.koeln/haus/britney/)
 
