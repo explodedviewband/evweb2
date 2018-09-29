@@ -10,59 +10,63 @@ permalink: /about/
 
 Exploded View, the international project of UK-bred, Berlin-based Annika Henderson, and Mexico City-based Hugo Quezada (Robota) and Martin Thulin (Crocodiles), return with their second album Obey, which is set for release September 28th via Sacred Bones. The first single from the record "Raven Raven" is streaming online now.
 
-<a href="https://www.sacredbonesrecords.com/products/sbr209-exploded-view-obey">Pre-order Obey via Sacred Bones HERE -</a>
+<a href="https://www.sacredbonesrecords.com/products/sbr209-exploded-view-obey">Order Obey via Sacred Bones HERE -</a>
 
 Commenting on the hypotonic, spooky new single Exploded View said, “Ever felt like someone is watching your every move? Your every twitch, your every sneeze? Stare back into the face of observation. Never give in to external control. You can break this.”
 
 Leaving behind their live recording process and now a tight three-piece, Exploded View strike a special balance between precise and wild, unshackled and grounded, groovy and unhinged. The have a knack for making the esoteric feel accessible and crafting pop music out of seemingly raw consciousness. This ability to make beautiful music that feels written beyond the veil is at the heart of what makes Exploded View so captivating, and it’s on full display all over Obey. Recorded in Mexico City, the album feels like a liberation of creative impulses and expression allowing the band to reach more mature sonic territories.
  
 Obey flows like a dream sequence with the aptly titled “Lullaby” opening the album; it slowly lures the listener into a lucid state, preparing them for the journey to come. The ten apocalyptic, yet soothing songs encompass all the classic dream motifs: intrigue, danger, ecstasy, hard to place, yet primordial visions, and a constant sense of movement. 
-<div align="Left"><br/>
-## US tour this Fall 2018!
+
+---
+
+### US tour this Fall 2018!
+
 <br/>More details here:
 <a href="https://www.facebook.com/explodedviewband/">facebook.com/explodedviewband</a><br/><br/>
-Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture
+Fri. Oct. 19 - US tour this Fall 2018!, TX @ Nasher Sculpture
 <br/>
-Sat. Oct. 20 - Austin, TX @ The Parish
+Sat. Oct. 20 - **Austin**, TX @ The Parish
 <br/>
-Mon. Oct. 22 - Phoenix, AZ @ Club Congress
+Mon. Oct. 22 - **Phoenix**, AZ @ Club Congress
 <br/>
-Wed. Oct. 24 - San Diego, CA @ The Whistle Stop
+Wed. Oct. 24 - **San Diego**, CA @ The Whistle Stop
 <br/>
-Thu. Oct. 25 - Pomona, CA @ The Glass House
+Thu. Oct. 25 - **Pomona**, CA @ The Glass House
 <br/>
-Fri. Oct. 26 - Los Angeles, CA @ The Echo
+Fri. Oct. 26 - **Los Angeles**, CA @ The Echo
 <br/>
-Sun. Oct. 28 - San Francisco, CA @ Rickshaw Stop
+Sun. Oct. 28 - **San Francisco**, CA @ Rickshaw Stop
 <br/>
-Mon. Oct. 29 - Portland, OR @ Mississippi Studio
+Mon. Oct. 29 - **Portland**, OR @ Mississippi Studio
 <br/>
-Tue. Oct. 30 - Seattle, WA @ Vera Project
+Tue. Oct. 30 - **Seattle**, WA @ Vera Project
 <br/>
-Wed. Oct. 31 - Vancouver, BC @ Fox Cabaret
+Wed. Oct. 31 - **Vancouver**, BC @ Fox Cabaret
 <br/>
-Thu. Nov. 1 - Chicago, IL @ The Empty Bottle
+Thu. Nov. 1 - **Chicago**, IL @ The Empty Bottle
 <br/>
-Fri. Nov. 2 - Detroit, MI @ Deluxxx Fluxxx
+Fri. Nov. 2 - **Detroit**, MI @ Deluxxx Fluxxx
 <br/>
-Sat. Nov. 3 - Toronto, ON @ The Garrison
+Sat. Nov. 3 - **Toronto**, ON @ The Garrison
 <br/>
-Mon. Nov. 5 - Montreal, QC @ Sala Rossa
+Mon. Nov. 5 - **Montreal**, QC @ Sala Rossa
 <br/>
-Tue. Nov. 6 - Boston, MA @ Middle East
+Tue. Nov. 6 - **Boston**, MA @ Middle East
 <br/>
-Thu. Nov. 8 - Brooklyn, NY @ Rough Trade
+Thu. Nov. 8 - **Brooklyn**, NY @ Rough Trade
 <br/>
-Fri. Nov. 9 - Philadelphia, PA @ PhilMOCA
+Fri. Nov. 9 - **Philadelphia**, PA @ PhilMOCA
 <br/>
-Sat. Nov. 10 - Norfolk, VA @ Charlies American Cafe
+Sat. Nov. 10 - **Norfolk**, VA @ Charlies American Cafe
 <br/>
-Sun. Nov. 11 - Washington, DC @ DC9
+Sun. Nov. 11 - **Washington**, DC @ DC9
 <br/>
-Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room
+Mon. Nov. 12 - **Harrisburg**, PA @ The Cathedral Room
 </div> 
-<br/>
-Obey track list:
+<hr>
+
+### Obey track list:
 1. Lullaby 
 2. Open Road
 3. Dark Stains
@@ -73,8 +77,10 @@ Obey track list:
 8. Raven Raven (stream) 
 9. Come On Honey
 10. Rant
-<br/><br/>
-Full Biog:
+
+---
+
+**Full Biog:**
 
 Exploded View is a collaborative project helmed by the UK-born, Berlin-based political-journalist-turned-musician Anika   (Invada Records / Stones Throw). After playing a string of 2014 solo   shows in Mexico with a backing lineup composed of local producers  Martin  Thulin, Hugo Quezada and Amon Melgarejo, Anika and her new  bandmates  discovered a chemistry that they simply had to capture on  tape.
 
