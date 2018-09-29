@@ -535,7 +535,7 @@ h6, .h6 {
       color: #1b1b1b;
       text-decoration: none; }
       .header .site-title a:hover {
-        color: #b90000; }
+        color: #5c583f; }
   .header .topnavigation {
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -544,9 +544,9 @@ h6, .h6 {
       text-decoration: none;
       color: #1b1b1b; }
       .header .topnavigation a:hover {
-        color: #b90000; }
+        color: #5c583f; }
       .header .topnavigation a.active {
-        color: #dd0000; }
+        color: #716c4e; }
   .header ul.navigation {
     list-style: none; }
     .header ul.navigation li.nav-item {
@@ -655,7 +655,7 @@ nav label:before {
     .footer a.social-link .svg-icon {
       fill: inherit; }
     .footer a.social-link:hover .svg-icon {
-      fill: #b90000; }
+      fill: #5c583f; }
   .footer .svg-icon {
     width: 30px; }
   .footer .rss {
@@ -685,7 +685,7 @@ nav label:before {
 
 #mc_embed_signup .button {
   clear: both;
-  background-color: #e33;
+  background-color: #716c4e;
   border: 0 none;
   border-radius: 1px;
   transition: all 0.23s ease-in-out 0s;
@@ -705,7 +705,7 @@ nav label:before {
   width: auto; }
 
 #mc_embed_signup .button:hover {
-  background-color: #b90000; }
+  background-color: #5c583f; }
 
 #mc_embed_signup .small-meta {
   font-size: 11px; }
@@ -848,9 +848,9 @@ body {
   margin-top: 70px; }
 
 a {
-  color: #dd0000; }
+  color: #716c4e; }
   a:visited {
-    color: #b90000; }
+    color: #5c583f; }
 
 img,
 video,
@@ -866,7 +866,7 @@ img {
 
 a.btn {
   color: #f6f6f6;
-  background-color: #e33;
+  background-color: #716c4e;
   padding: 1em;
   text-decoration: none;
   text-transform: uppercase;
@@ -874,7 +874,7 @@ a.btn {
   font-weight: 500;
   letter-spacing: 0.08em; }
   a.btn:hover {
-    background-color: #ea1313; }
+    background-color: #5c583f; }
 
 .home .subtitle {
   font-size: 1.1em;
