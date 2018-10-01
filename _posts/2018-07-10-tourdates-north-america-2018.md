@@ -6,45 +6,46 @@ categories: news
 ---
 ![Tour Dates US Tour 2018]({{site.baseurl}}/assets/sbr209-explodedview-northamerica2018-r3.jpg)
 
-Confirmed Live Dates for the North America Tour 2018
+**Confirmed Live Dates for the North America Tour 2018**
 
 
-Fri. Oct. 19 - Dallas, TX @ Nasher Sculpture [Info](http://www.nashersculpturecenter.org/engage/event?id=620)
 
-Sat. Oct. 20 - Austin, TX @ The Parish [Tickets](https://www.theparishaustin.com/event-details/TWL1853309/exploded-view-at-the-parish/)
+Fri. Oct. 19 - **Dallas**, TX @ Nasher Sculpture [Info](http://www.nashersculpturecenter.org/engage/event?id=620)
 
-Mon. Oct. 22 - Tucson, AZ @ Club Congress [Tickets](https://www.eventbrite.com/e/exploded-view-with-exek-tickets-47539289294)
+Sat. Oct. 20 - **Austin**, TX @ The Parish [Tickets](https://www.theparishaustin.com/event-details/TWL1853309/exploded-view-at-the-parish/)
 
-Wed. Oct. 24 - San Diego, CA @ The Whistle Stop [Tickets](https://www.songkick.com/concerts/34452469-exploded-view-at-whistle-stop)
+Mon. Oct. 22 - **Tucson**, AZ @ Club Congress [Tickets](https://www.eventbrite.com/e/exploded-view-with-exek-tickets-47539289294)
 
-Thu. Oct. 25 - Pomona, CA @ The Glass House [Tickets](https://www.ticketfly.com/event/1720082-exploded-view-pomona/)
+Wed. Oct. 24 - **San Diego**, CA @ The Whistle Stop [Tickets](https://www.songkick.com/concerts/34452469-exploded-view-at-whistle-stop)
 
-Fri. Oct. 26 - Los Angeles, CA @ The Echo [Tickets](https://www.ticketfly.com/purchase/event/1722392)
+Thu. Oct. 25 - **Pomona**, CA @ The Glass House [Tickets](https://www.ticketfly.com/event/1720082-exploded-view-pomona/)
 
-Sun. Oct. 28 - San Francisco, CA @ Rickshaw Stop [Tickets](https://www.ticketfly.com/purchase/event/1720254)
+Fri. Oct. 26 - **Los Angeles**, CA @ The Echo [Tickets](https://www.ticketfly.com/purchase/event/1722392)
 
-Mon. Oct. 29 - Portland, OR @ Mississippi Studio [Tickets](https://www.ticketfly.com/event/1720141-exploded-view-portland/)
+Sun. Oct. 28 - **San Francisco**, CA @ Rickshaw Stop [Tickets](https://www.ticketfly.com/purchase/event/1720254)
 
-Tue. Oct. 30 - Seattle, WA @ Vera Project [Tickets](https://www.ticketfly.com/event/1722857-exploded-view-seattle/)
+Mon. Oct. 29 - **Portland**, OR @ Mississippi Studio [Tickets](https://www.ticketfly.com/event/1720141-exploded-view-portland/)
 
-Wed. Oct. 31 - Vancouver, BC @ Fox Cabaret [Tickets](https://www.ticketfly.com/event/1662175-exploded-view-vancouver/)
+Tue. Oct. 30 - **Seattle**, WA @ Vera Project [Tickets](https://www.ticketfly.com/event/1722857-exploded-view-seattle/)
 
-Thu. Nov. 1 - Chicago, IL @ The Empty Bottle [Tickets](https://www.eventbrite.com/e/exploded-view-the-empty-bottle-tickets-47333960149)
+Wed. Oct. 31 - **Vancouver**, BC @ Fox Cabaret [Tickets](https://www.ticketfly.com/event/1662175-exploded-view-vancouver/)
 
-Fri. Nov. 2 - Detroit, MI @ Deluxxx Fluxxx [Tickets](https://www.ticketfly.com/event/1722455-exploded-view-detroit/)
+Thu. Nov. 1 - **Chicago**, IL @ The Empty Bottle [Tickets](https://www.eventbrite.com/e/exploded-view-the-empty-bottle-tickets-47333960149)
 
-Sat. Nov. 3 - Toronto, ON @ The Garrison [Tickets](https://www.ticketfly.com/event/1661961-exploded-view-ft-anika-toronto/)
+Fri. Nov. 2 - **Detroit**, MI @ Deluxxx Fluxxx [Tickets](https://www.ticketfly.com/event/1722455-exploded-view-detroit/)
 
-Mon. Nov. 5 - Montreal, QC @ Sala Rossa [Tickets](https://www.songkick.com/concerts/34484074-exploded-view-at-la-sala-rossa)
+Sat. Nov. 3 - **Toronto**, ON @ The Garrison [Tickets](https://www.ticketfly.com/event/1661961-exploded-view-ft-anika-toronto/)
 
-Tue. Nov. 6 - Boston, MA @ Middle East [Tickets](https://www.songkick.com/concerts/34451909-exploded-view-at-middle-east-downstairs)
+Mon. Nov. 5 - **Montreal**, QC @ Sala Rossa [Tickets](https://www.songkick.com/concerts/34484074-exploded-view-at-la-sala-rossa)
 
-Thu. Nov. 8 - Brooklyn, NY @ Rough Trade [Tickets](http://www.axs.com/events/356898/exploded-view-tickets)
+Tue. Nov. 6 - **Boston**, MA @ Middle East [Tickets](https://www.songkick.com/concerts/34451909-exploded-view-at-middle-east-downstairs)
 
-Fri. Nov. 9 - Philadelphia, PA @ PhilMOCA [Tickets](https://www.ticketfly.com/event/1670628-exploded-view-anika-philadelphia/)
+Thu. Nov. 8 - **Brooklyn**, NY @ Rough Trade [Tickets](http://www.axs.com/events/356898/exploded-view-tickets)
 
-Sat. Nov. 10 - Norfolk, VA @ Charlies American Cafe [Tickets](https://www.eventbrite.com/e/exploded-view-tba-tickets-47448185801)
+Fri. Nov. 9 - **Philadelphia**, PA @ PhilMOCA [Tickets](https://www.ticketfly.com/event/1670628-exploded-view-anika-philadelphia/)
 
-Sun. Nov. 11 - Washington, DC @ DC9 [Tickets](https://www.ticketfly.com/event/1720434-exploded-view-washington/)
+Sat. Nov. 10 - **Norfolk**, VA @ Charlies American Cafe [Tickets](https://www.eventbrite.com/e/exploded-view-tba-tickets-47448185801)
 
-Mon. Nov. 12 - Harrisburg, PA @ The Cathedral Room
+Sun. Nov. 11 - **Washington**, DC @ DC9 [Tickets](https://www.ticketfly.com/event/1720434-exploded-view-washington/)
+
+Mon. Nov. 12 - **Harrisburg**, PA @ The Cathedral Room
