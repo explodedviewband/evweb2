@@ -36,7 +36,7 @@ layout: default
   <!-- video -->
   <h2 class="category-heading">Video</h2>
   <div class="posts video">
-    {% for post in site.categories['video'] %}
+    {% for post in site.categories['video'] limit: 2 %}
       <div class="post-content">
         {{ post.content}}
       </div>
