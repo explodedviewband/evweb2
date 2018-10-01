@@ -477,6 +477,9 @@ img {
   display: table;
   clear: both; }
 
+.hero {
+  margin: 0 0 60px 0; }
+
 h1,
 h2,
 h3,
@@ -877,6 +880,7 @@ a.btn {
     background-color: #5c583f; }
 
 .home .subtitle {
+  min-height: 2.2em;
   font-size: 1.1em;
   font-weight: normal;
   color: #999999; }
@@ -887,6 +891,8 @@ a.btn {
   font-size: 19px;
   margin-bottom: 40px;
   border-bottom: 1px solid #999999; }
+  .category-heading a {
+    text-decoration: none; }
 
 [class*="col-"] iframe {
   max-width: 100%; }
