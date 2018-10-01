@@ -12,7 +12,12 @@ seo:
   alternateName: "Exploded View feat. Anika"
 ---
 
+
 # Exploded View
+
+<div class="col-6" markdown="1">
+
+
 ## New Album 'Obey' now available via Sacred Bones.
 {: .subtitle}
 
@@ -20,6 +25,19 @@ seo:
 
 <a class="btn btn-primary btn-lg buy" href="https://www.sacredbonesrecords.com/products/sbr209-exploded-view-obey">Order 'Obey' here</a>
 
+</div>
+
+<div class="col-6" markdown="1">
+
+## North America Tour 2018
+{:.subtitle} 
+
+![Tour Dates US Tour 2018]({{site.baseurl}}/assets/sbr209-explodedview-northamerica2018-r3.jpg)
+
+<a class="btn btn-primary btn-lg" href="{{site.basurl}}/tour-dates">See Tourdates</a>
+
+
+</div>
 <!-- [![Exploded view_NA_TOUR]({{site.baseurl}}/assets/sbr209-explodedview-northamerica2018-r3.jpg)](https://explodedview.info/tour-dates/) -->
 
 <!-- ## Listen to New Single 'Raven Raven'

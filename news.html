@@ -4,9 +4,10 @@ title: News from Exploded View
 ---
 
 <div id="news">
-  <h1>Blog Posts</h1>
+  <h1>News</h1>
   <ul class="posts news">
-    {% for post in site.news %}
+    {% for post in site.categories['news'] limit: none %}
+
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
