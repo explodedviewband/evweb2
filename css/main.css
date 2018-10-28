@@ -848,7 +848,22 @@ nav label:before {
 
 body {
   background-color: #FF3EB5;
-  margin-top: 70px; }
+  margin-top: 70px;
+  animation: backgroundtogglecolor .3s;
+  -moz-animation: backgroundtogglecolor .3s infinite;
+  -webkit-animation: backgroundtogglecolor .6s infinite; }
+
+@-webkit-keyframes backgroundtogglecolor {
+  0% {
+    background-color: #FF3EB5; }
+  100% {
+    background-color: white; } }
+
+@keyframes backgroundtogglecolor {
+  0% {
+    background-color: #FF3EB5; }
+  100% {
+    background-color: white; } }
 
 a {
   color: #716c4e; }
