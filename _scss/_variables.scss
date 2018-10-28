@@ -24,7 +24,7 @@ $color-ev-pantone806c: #FF3EB5;
 $color-lightgrey: rgb(246,246,246);
 $text-color: rgb(27, 27, 27);
 $color-grey-400: rgb(153, 153, 153);
-$link-color: $color-ev-pantone806c;
+$link-color: $color-ev-obey;
 $link-hover-color: darken($link-color, 7%);
 $link-visited-color: darken($link-color, 7%);
 
@@ -62,7 +62,6 @@ $headings-font-family:        inherit !default;
 $headings-font-weight:        500 !default;
 $headings-line-height:        1.2 !default;
 $headings-color: inherit !default;
-
 
 // Header
 $header-height: 70px;

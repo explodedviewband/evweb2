@@ -13,7 +13,7 @@
 @import "newsletterform";
 
 body {
-  background: white;
+  background-color: $primary;
   margin-top: $header-height;
 }
 
@@ -41,7 +41,7 @@ img {
 
 a.btn {
   color: $color-lightgrey;
-  background-color: $primary;
+  background-color: $link-color;
   padding: 1em;
   text-decoration: none;
   text-transform: uppercase;
@@ -50,7 +50,7 @@ a.btn {
   letter-spacing: 0.08em;
 
   &:hover {
-    background-color: darken($primary, 7%);
+    background-color: darken($link-visited-color, 7%);
   }
 }
 
@@ -58,7 +58,7 @@ a.btn {
   min-height: 2.4em; // ensure same height for 1 and 2 lines
   font-size: 1.1em;
   font-weight: normal;
-  color: $color-grey-400;
+  color: $text-color;
 }
 
 .category-heading {
