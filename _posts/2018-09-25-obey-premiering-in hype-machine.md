@@ -14,3 +14,6 @@ There are still a few copies left of the limited edition (350 copies only!) PINK
 **[WE ARE ALSO TOURING USA AND CANADA]({{site.baseurl}}/tour-dates/)** starting October 19 in Dallas!
 
 <iframe src="https://hypem.com/premiere-embed/exploded+view" allowtransparency="true" frameborder="0" scrolling="no" style="width: 100%; height:250px;"></iframe>
+
+
+{% include obeylp-jsonld.html %}
