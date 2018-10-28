@@ -18,12 +18,13 @@ $grid-max-width: 65em;
 // COLORS
 $color-ev-red: rgb(221, 0, 0);
 $color-ev-obey: #716c4e;
+$color-ev-pantone806c: #FF3EB5;
 
 
 $color-lightgrey: rgb(246,246,246);
 $text-color: rgb(27, 27, 27);
 $color-grey-400: rgb(153, 153, 153);
-$link-color: $color-ev-obey;
+$link-color: $color-ev-pantone806c;
 $link-hover-color: darken($link-color, 7%);
 $link-visited-color: darken($link-color, 7%);
 
